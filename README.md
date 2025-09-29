@@ -211,7 +211,7 @@ app.add_middleware(
 ```
 
 ### Database
-The application uses SQLite by default. The database file (`products.db`) is created automatically on first run with sample data.
+The application uses PostgresSQL by default. The database file (`products.db`) is created automatically on first run with sample data.
 
 ## 📄 License
 
